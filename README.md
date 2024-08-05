@@ -1,7 +1,7 @@
 # Hello, I'm Murad 👋
 
 ## 👨‍💻 About Me
-I'm a passionate Mobile Developer with a couple of professional experience, specializing in building outstanding mobile applications. 
+I'm a passionate Mobile Developer with a couple of years of professional experience, specializing in building outstanding mobile applications. 
 
 - 🌱 I’m currently learning **Machine Learning** to enhance my skills and integrate AI capabilities into mobile apps.
 - 🔭 I’m currently working on **multiple innovative mobile app projects**.
