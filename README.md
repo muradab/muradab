@@ -7,9 +7,6 @@ I'm a passionate Mobile Developer with a couple of years of professional experie
 - 🔭 I’m currently working on **multiple innovative mobile app projects**.
 - 📫 How to reach me: [se.murad.abdella@gmail.com](mailto:se.murad.abdella@gmail.com)
 
-## 📫 How to Reach Me
-- Email: [se.murad.abdella@gmail.com](mailto:se.murad.abdella@gmail.com)
-- GitHub: [@muradab](https://github.com/muradab)
 - LinkedIn: [Murad Abdella](https://www.linkedin.com/in/murad-abdella-remedan/)
 
 ---
